@@ -5,13 +5,13 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20200"
         version   = "0.0.1">
-    <name>My Wellness Trainer Mobile</name>
+    <name>My Wellness Trainer</name>
 
     <description>
-        My Wellness Trainer Mobile official app
+        My Wellness Trainer official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="https://www.mywellnesstrainer.it" email="mywellnesstrainer2.0@gmail.com">
         My Wellness Trainer Mobile team
     </author>
 
