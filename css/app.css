@@ -23,19 +23,16 @@
    background-color: #fafafa;
  }
  
-/* 
-Generic Styling, for Desktops/Laptops 
-*/
 table { 
   width: 100%; 
   border-collapse: collapse; 
 }
 /* Zebra striping */
 tr:nth-of-type(odd) { 
-  background: #eee; 
+  background: #e3dfd6; 
 }
 th { 
-  background: #333; 
+  background: #0065A9; 
   color: white; 
   font-weight: bold; 
 }
@@ -44,3 +41,4 @@ td, th {
   border: 1px solid #ccc; 
   text-align: left; 
 }
+
